@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { projects } from "../../data";
 
 const Projects = () => {
@@ -41,8 +42,8 @@ const Projects = () => {
                                     </div>
                                 </div>
                             </a>
-                            <a href={project.clientlink} className='btn-sm rounded btn-primary my-5'>Git Client side link</a>
-                            <a href={project.serverlink} className='btn-sm rounded btn-primary ml-6 my-5'>Git server side link</a>
+                            <Link to='/details' className='btn rounded btn-primary my-5'>Details</Link>
+
                         </React.Fragment>
                     ))}
                 </div>
