@@ -17,8 +17,11 @@ const Navbar = () => {
                     <a href="#skills" className="mr-5 hover:text-white">
                         Skills
                     </a>
+                    <a href="#blogs" className="mr-5 hover:text-white">
+                        Blogs
+                    </a>
                     <Link to='/about' className='mr-5 hover:text-white'>About Me</Link>
-                    <a href="../../images/sultanaAniResume.pdf" download="../../images/sultanaAniResume.pdf" className="mr-5 hover:text-white btn btn-primary">
+                    <a href="assets/images/SultanaAniResume.pdf" download="assets/images/SultanaAniResume.pdf" className="mr-5 hover:text-white btn btn-primary">
                         <button>Resume</button>
                     </a>
 
