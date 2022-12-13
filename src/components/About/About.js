@@ -8,7 +8,7 @@ const About = () => {
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Sultana Afroj Ani.
-                        <br className="hidden lg:inline-block" />I am able to balance creative design with the technical skill involved in creating a website.
+                        <br className="hidden lg:inline-block" />I like to balance creative design with the technical skill involved in creating a website.
                     </h1>
                     <p className="mb-8 leading-relaxed">
                         I am a self taught Front-end Web Developer, currently diving deeper into Competitive programming. Being an industrial enginnering graduate who used to be a banker, I belive changing career goal is a hard nut to crack but not an impossible task. If anyone is obsessed with his/her dreeams and pationate to work towards them, s/he bound to be successful.

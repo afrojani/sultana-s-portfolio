@@ -27,3 +27,16 @@ export const projects = [
         serverlink: "https://github.com/afrojani/second-hand-product-website-server-side"
     },
 ];
+
+export const skills = [
+    "HTML5",
+    "CSS3",
+    "Bootstrap",
+    "Tailwind",
+    "JavaScript",
+    "Dom manipulation",
+    "RactJS",
+    "ExpressJs",
+    "NodeJs",
+    "MongoDB"
+];
